@@ -1,15 +1,27 @@
 <!DOCTYPE html>
 <html>
+  <head>
+      <title>ONLINE BOOK STORE WEBSITE</title>
   <style>
-    h3{ font-color="red";
-        font-size="8";
+    h3
+    { 
+    font-color="red";
+    font-size="8";
     }
+    body {
+    background-color: linen;
+}
+
+h3 {
+    color: maroon;
+    margin-left: 40px;
+} 
     #e
     {
     background="blue";
     }
   </style>
-  <head>ONLINE BOOK STORE WEBSITE</head>
+    </head>
   <body>
 <h3>book store</h3>
   <table id="e" cellspacing="6" cellpadding="6" border="0">
